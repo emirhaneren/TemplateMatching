@@ -1,3 +1,3 @@
 # TemplateMatching
 Template matching with python and OpenCV Libary
-![alt text](https://github.com/[emirhaneren]/[TemplateMatching]/blob/[Example1]/Result.jpg?raw=true)
+![Result 1](https://github.com/emirhaneren/TemplateMatching/blob/master/Example1/Result.jpg)
